@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+/*This aligns all my h1 tags*/
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+/*This allows for me to make the color of my navbar whatever I want*/
+#color {
+  background-color:#8B0000 !important;
+
+}
+/* 
+#Chiron{
+  width: 30%;
+  height: 50%;
+
+} */
+#link {
+  border: transparent;
+}
+
+#Cars{
+  background-color: black;
+}
+
+.yea{
+  width: 490px;
+  height: 350px;
+}
